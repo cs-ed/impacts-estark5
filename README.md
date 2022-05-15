@@ -40,6 +40,8 @@ Some example atricles:
 
 [Computer use in Agriculture of Developing Economies](https://justagriculture.in/files/newsletter/2022/january/5.%20Use%20of%20Computer%20in%20Agriculture.pdf)
 
+[Social media impact on mental health](https://www.healthline.com/health/social-media-and-mental-health)
+
 **Past, Present, and Future** 
 
 This will be the culminating project for the impacts portion of the course. The project will be given and assessed in three parts. 

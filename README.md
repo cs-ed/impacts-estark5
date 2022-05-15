@@ -22,8 +22,11 @@ Compare and contrast similar technologies and their impacts on society.
 ### Learning Activities
 
 Describe the learning activities and how they will be incorporated into the class. For example, will they include class discussion, written reports, homework, or exams? Will the activity be a one-time lesson or used multiple times in class?
+
 **Case Studies**
+
 This will be the primary activity used in the course. The teacher will present an article, video, or other form of media that demonstrates social issues related to computing. 
+
 Issues to be addressed are: 
 1. Diversity and inclusion in the field. 
 2. Positive and negative impacts in various industries. 
@@ -31,6 +34,7 @@ Issues to be addressed are:
 
 
 **Past, Present, and Future** 
+
 This will be the culminating project for the impacts portion of the course. The project will be given and assessed in three parts. 
 Students will be required to look at the development of computing through the framework of societal impact. 
 1. Past - Students will do independent research into past events that were heavily influenced by developments in computer technolgies. 
@@ -48,7 +52,9 @@ Students will be required to look at the development of computing through the fr
 ### Assessment
 
 Describe how you plan to assess the learning objectives described above.
+
 **Case Studies** 
+
 Case studies will be addressed in a variety of forms. 
 - Written responses - particularly early in the course, direct responses will be used. 
 - Class discussions - As students get more familiar with the concepts, classroom discussions will be enployed that in particular use frameworks such as fishbowl and jigsaw. 

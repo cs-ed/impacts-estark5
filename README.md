@@ -1,6 +1,7 @@
 # Impacts on Society
 
 Describe your course including the name, description, and grade level. Broadly explain how this document details how you plan to incorporate issues of computing impacts on society in your course
+
 This is an impact plan designed for an introduction to computing course. The target grade level is 9th grade. 
 While many students arrive at high school able to use a smartphone, they lack many important skills related to success in academics and the workplace. 
 The course would work with students on formatting word processing documents, spreadsheets, and slides. 
@@ -69,3 +70,9 @@ Students will have an option in this portion of the course regarding how they wi
 ### Outcomes
 
 Describe how your plan will facilitate diversity/equity/inclusion and help broadening participation in computing. Also describe how the course plan will help long-term goals in addressing computing impacts on society.
+
+The primary outcome is students who are aware of social issues surrounding computing. 
+In particular students should understand the current state and demographics of the tech industry. 
+Students will be able to describe societal issues both caused and solved by computers. 
+Students will be able to analyze current issues in the context of computing's role in causing or solving them. 
+These outcomes will help foster a culture of citizenship around the subject of computing. 

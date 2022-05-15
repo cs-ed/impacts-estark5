@@ -31,9 +31,11 @@ This will be the primary activity used in the course. The teacher will present a
 Issues to be addressed are: 
 1. Diversity and inclusion in the field. 
 2. Positive and negative impacts in various industries. 
-3. The role of social media and targeted advertising in modern society. 
+3. The role of social media and targeted advertising in modern society.
+4. How computing can be used to address economic inequality and developing econommies.  
 
 Some example atricles: 
+
 [Diversity in STEM](https://caseagrant.ucsd.edu/news/diversity-stem-what-it-why-does-it-matter-and-how-do-we-increase-it#:~:text=According%20to%20the%20NSF%2C%20the,all%20children%20born%20are%20female.)
 
 [Computer use in Agriculture of Developing Economies](https://justagriculture.in/files/newsletter/2022/january/5.%20Use%20of%20Computer%20in%20Agriculture.pdf)

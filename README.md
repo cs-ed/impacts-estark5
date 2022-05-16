@@ -15,10 +15,10 @@ As a supplement to the core curriculum, the class will also address the impact t
 Describe the learning objectives for the class that relate to social impacts. Consider using Bloom's Taxonomy to identify the types of cognitive and/or affective outcomes (and their associated verbs): https://bloomstaxonomy.net/
 
 Students will be able to
-Classify breakthroughs in computing into positive, negative, and mixed categories. 
-Demonstrate impacts of computers on societal development. 
-Implement a plan to address a current social issue. 
-Compare and contrast similar technologies and their impacts on society. 
+- Classify breakthroughs in computing into positive, negative, and mixed categories. 
+- Demonstrate impacts of computers on societal development. 
+- Implement a plan to address a current social issue. 
+- Compare and contrast similar technologies and their impacts on society. 
 
 ### Learning Activities
 
@@ -26,7 +26,7 @@ Describe the learning activities and how they will be incorporated into the clas
 
 **Case Studies**
 
-This will be the primary activity used in the course. The teacher will present an article, video, or other form of media that demonstrates social issues related to computing. 
+This will be the primary activity used in the course. The teacher will present an article, video, or other form of media that demonstrates social issues related to computing. Students will be expected to classify advancements by societal impact. Students will present informed opinions about the material. 
 
 Issues to be addressed are: 
 1. Diversity and inclusion in the field. 

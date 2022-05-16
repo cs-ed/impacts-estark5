@@ -81,6 +81,7 @@ Describe how your plan will facilitate diversity/equity/inclusion and help broad
 
 The primary outcome is students who are aware of social issues surrounding computing. 
 In particular students should understand the current state and demographics of the tech industry. 
+Additionally, students will be able to present action plans to address the diversity issue in STEM. 
 Students will be able to describe societal issues both caused and solved by computers. 
 Students will be able to analyze current issues in the context of computing's role in causing or solving them. 
-These outcomes will help foster a culture of citizenship around the subject of computing. 
+These outcomes will help foster a culture of citizenship and inclusivity around the subject of computing and STEM in general. 

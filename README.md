@@ -1,6 +1,5 @@
 # Impacts on Society
 
-Describe your course including the name, description, and grade level. Broadly explain how this document details how you plan to incorporate issues of computing impacts on society in your course
 
 This is an impact plan designed for an introduction to computing course. The target grade level is 9th grade. 
 While many students arrive at high school able to use a smartphone, they lack many important skills related to success in academics and the workplace. 
@@ -12,7 +11,6 @@ As a supplement to the core curriculum, the class will also address the impact t
 
 ### Learning Objectives
 
-Describe the learning objectives for the class that relate to social impacts. Consider using Bloom's Taxonomy to identify the types of cognitive and/or affective outcomes (and their associated verbs): https://bloomstaxonomy.net/
 
 Students will be able to
 - Classify breakthroughs in computing into positive, negative, and mixed categories. 
@@ -22,7 +20,6 @@ Students will be able to
 
 ### Learning Activities
 
-Describe the learning activities and how they will be incorporated into the class. For example, will they include class discussion, written reports, homework, or exams? Will the activity be a one-time lesson or used multiple times in class?
 
 **Case Studies**
 
@@ -60,7 +57,6 @@ Students will be required to look at the development of computing through the fr
 
 ### Assessment
 
-Describe how you plan to assess the learning objectives described above.
 
 **Case Studies** 
 
@@ -77,7 +73,6 @@ Students will have an option in this portion of the course regarding how they wi
 
 ### Outcomes
 
-Describe how your plan will facilitate diversity/equity/inclusion and help broadening participation in computing. Also describe how the course plan will help long-term goals in addressing computing impacts on society.
 
 The primary outcome is students who are aware of social issues surrounding computing. 
 In particular students should understand the current state and demographics of the tech industry. 
